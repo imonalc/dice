@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 make_dice_img/output/
-data_given/_
+data_given/
