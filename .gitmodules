@@ -1,3 +1,6 @@
 [submodule "Real-ESRGAN"]
 	path = Real-ESRGAN
 	url = git@github.com:xinntao/Real-ESRGAN.git
+[submodule "ultralytics"]
+	path = ultralytics
+	url = git@github.com:ultralytics/ultralytics.git
