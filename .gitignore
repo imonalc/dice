@@ -164,3 +164,4 @@ data_given/
 make_dice_img/runs/detect/train/weights/best.pt
 make_dice_img/runs/detect/train/weights/last.pt
 make_dice_img/yolov8x.pt
+make_dice_img/yolov8x-cls.pt
